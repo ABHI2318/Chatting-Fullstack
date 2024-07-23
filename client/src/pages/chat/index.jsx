@@ -5,7 +5,7 @@ const chat = () => {
     <div>
       chat
     </div>
-  )
-}
+  );
+};
 
 export default chat
